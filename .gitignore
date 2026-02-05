@@ -8,3 +8,6 @@ labels/val/*
 # Allow directory structure
 !images/train/.gitkeep
 !images/val/.gitkeep
+
+!labels/train/.gitkeep
+!labels/val/.gitkeep
