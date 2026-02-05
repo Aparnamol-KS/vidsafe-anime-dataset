@@ -1,0 +1,10 @@
+# Ignore full image dataset
+images/train/*
+images/val/*
+
+labels/train/*
+labels/val/*
+
+# Allow directory structure
+!images/train/.gitkeep
+!images/val/.gitkeep
