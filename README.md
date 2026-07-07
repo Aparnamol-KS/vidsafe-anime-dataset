@@ -10,6 +10,8 @@ in animated and stylized video content.
 This dataset is intended for **academic and non-commercial research purposes**
 only.
 
+[View on Kaggle](https://www.kaggle.com/datasets/aparnamolks/anime-violence-detection-dataset)
+
 ---
 
 ## Dataset Statistics
